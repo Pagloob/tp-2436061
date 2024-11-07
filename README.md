@@ -1,4 +1,4 @@
-## Travail Pratique 2
+## Visual Studio Code
 ***
 Ce dépôt contient le code d'un projet web fait dans le cours de Perspectives Professionnelles
 ### Faire un *commit* et un *push* dans *Visual Studio Code*
