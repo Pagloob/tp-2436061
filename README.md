@@ -8,8 +8,8 @@ Voici comment faire un changement sur ce projet, et l'envoyer sur GitHub
 2. Dans *Source Control* cliquez sur *Stage All Changes* 
 3. Écrivez un message de *commit* et appuyez sur le bouton *commit*
 4. Appuyez sur *push* pour synchronizer avec GitHub
-![Première Image!](img/readme1.png)
-![Deuxième Image!](img/readme2.png)
+![Première Image!](docs/readme1.png)
+![Deuxième Image!](docs/readme2.png)
 #### Contributeurs
 ***
 - Kit Hudon - Auteur Principal
